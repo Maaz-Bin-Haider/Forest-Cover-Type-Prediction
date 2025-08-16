@@ -44,8 +44,6 @@ The model is built using **Random Forest Classifier**, evaluated with multiple m
 
 👉 [Click here to watch the video demo](https://drive.google.com/file/d/1FpZhtV8xSPw30c5ID_uyEC1RQ-qZRLal/view?usp=sharing)  
 
-*(Replace `YOUR_VIDEO_LINK_HERE` with your YouTube / Google Drive / GitHub link to the video.)*
-
 ---
 
 ## 📊 Results
