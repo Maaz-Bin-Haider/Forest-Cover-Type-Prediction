@@ -1,0 +1,6 @@
+myvenv/
+Model/
+*.pkl
+*.h5
+*.joblib
+*.sav
